@@ -192,10 +192,6 @@ acestream://02622fa2fab63847d88dc14fd9fa5c2fc35de8a8
 acestream://9707e15881a29adc795ebdc12862289860edd4ef
 #EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" group-title="TDT",La 1 TVE 4K *
 acestream://da38a21a9509be8c03b0fdb539cb1485843330c3
-#EXTINF:-1 group-title="1",luz *
-acestream://4adbc671d7a22ba1f8d277f3f37c91b47845a8a1
-#EXTINF:-1 group-title="1",luz **
-acestream://4ccb69f37f4cc27c05aef975c200715d9b3d31b4
 #EXTINF:-1 group-title="AIRE LIBRE",ALTITUDE SPORTS 1080p *
 acestream://3f1697cd02ff08343ace6171ffc2b26bf2b3ce1b
 #EXTINF:-1 group-title="AIRE LIBRE",ALTITUDE SPORTS *
